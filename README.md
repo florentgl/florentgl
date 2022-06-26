@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some personal web projects
  
-- 🌱 I’m currently learning ReactJS and working with Spree (Ecommerce with Ruby on Rails)
+- 🌱 I’m currently learning ReactJS and VueJS.
  
 - 💬 Ask me about Front End, Astro-photography and Ski.
  

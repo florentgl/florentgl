@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning Python / Data analytics.
  
-- 💬 Ask me about Front End, Astro-photography and Ski.
+- 💬 Ask me about Front End, SEO, Astro-photography and Ski.
  
 - 📫 How to reach me: florent_g@icloud.com
 

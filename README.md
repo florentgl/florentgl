@@ -9,7 +9,7 @@
  
 - 💬 Ask me about Front End, SEO, Astro-photography and Ski.
  
-- 📫 How to reach me: florent_g@icloud.com
+- 📫 How to reach me: On <a href="https://linkedin.com/in/florentgl" target="blank">LinkedIn</a>
 
 - ⚡ Fun fact: I watched Interstellar thousand of times! 🧑‍🚀
 

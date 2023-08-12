@@ -1,11 +1,11 @@
                                                      ### Hi there, I'm Florent_G 🖖 ###
                                                      
-                                                 Full-Stack Developer jr based at Montreal, Qc
+                                                 SEO & Ecommerce Specialist based at Montreal, Qc
 
 
 - 🔭 I’m currently working on some personal web projects
  
-- 🌱 I’m currently learning Python / Data analytics.
+- 🌱 I’m currently learning Python / Data analytics, and keeping me informed on new SEO trends.
  
 - 💬 Ask me about Front End, SEO, Astro-photography and Ski.
  
